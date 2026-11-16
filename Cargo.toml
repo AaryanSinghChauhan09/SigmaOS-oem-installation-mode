@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-oem-installation-mode"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS oem-installation-mode component - installer"
+
+[lib]
+name = "oem_installation_mode"
+path = "src/lib.rs"

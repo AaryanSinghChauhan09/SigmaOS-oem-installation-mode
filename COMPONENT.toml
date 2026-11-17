@@ -3,7 +3,7 @@ name = "SigmaOS-oem-installation-mode"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "oem-installation-mode component"
+description = "OEM Installation Mode"
 upstream = []
 
 [contract]
